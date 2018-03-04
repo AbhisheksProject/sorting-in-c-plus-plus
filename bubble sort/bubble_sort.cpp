@@ -1,3 +1,8 @@
+/*
+*Written By Abhishek Chatterjee
+*Bubble Sort Program
+*04/01/2018
+*/
 #include<iostream>
 
 using namespace std;
@@ -5,7 +10,7 @@ using namespace std;
 int main(){
 	int arr[100];
 	int n, i, j, temp;
-	cout << "Bubble sort by Abhishek Chatterhee" << endl;
+	cout << "Bubble sort by Abhishek Chatterjee" << endl;
 	cout << "How many numbers you want to enter : ";
 	cin >> n;
 	// Asking the numbers and then storing it in an array
