@@ -1,7 +1,7 @@
 /*
 *Programmed by Abhishek Chatterjee
-*Selection Sort
-*05/01/2018
+*Insertion Sort
+*06/01/2018
 */
 #include<iostream>
 
